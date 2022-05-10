@@ -1,3 +1,3 @@
-# ajax-project
+# Testing Repository
 
-A dynamic HTML, CSS, and JavaScript solo project.
+Repo for testing and learning new technologies
